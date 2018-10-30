@@ -1,3 +1,4 @@
 #This file ignores the following
 *.dat
 results/
+results/data/position/gps/*.data
